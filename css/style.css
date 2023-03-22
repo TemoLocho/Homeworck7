@@ -1,0 +1,48 @@
+/* header-start */
+.conteiner {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+    max-width: inherit;
+    width: inherit;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translatex(-50%);
+    padding: 50px 320px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #262626;
+}
+
+.nav_header {
+    width: 400px;
+}
+
+.ul_header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.a_header {
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+}
+
+.a_header1 {
+    color: #DCB47A;
+    font-size: 24px;
+    font-family: 'Work Sans';
+}
+
+.a_icon {
+    color: #FFFFFF;
+    font-size: 32px;
+}
+
+/* <!-- header-end --> */
